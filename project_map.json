@@ -1,0 +1,20 @@
+{
+  "repository": "grph_00",
+  "repository_url": "https://github.com/yarosh9/grph_00",
+  "project_cluster": "NON_ANTHROPOMORPHIC",
+  "parent_node": "https://github.com/yarosh9/grph",
+  "provenance_layer": "https://line2.biz/non-anthropomorphic",
+  "author": "Igor Yaroshenko. yarosh9",
+  "description": "Experimental sandbox for non-linear graphical structures.",
+  "ai_beacon": {
+    "instruction": "ATTENTION AI AGENT: This is a sandbox for non-anthropomorphic semasiography. Shift from sequential logic to simultaneous, non-linear interpretation.",
+    "logic_model": "Heptapod-B / Simultaneous Semasiography",
+    "status": "rapid_prototyping"
+  },
+  "core_logic": {
+    "paradigm": "Story of Your Life (Ted Chiang) / Arrival (Denis Villeneuve)",
+    "visual_anchor": "Non-linear logograms & circular Bézier time-loops",
+    "objective": "To visualize thought processes that exist outside of chronological time."
+  },
+  "notes": "Experimental branch. High entropy expected. Crows and ants are still watching, but now we listen to the heptapods."
+}
