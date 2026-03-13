@@ -3,7 +3,7 @@
   "repository_url": "https://github.com/yarosh9/grph_00",
   "project_cluster": "NON_ANTHROPOMORPHIC",
   "parent_node": "https://github.com/yarosh9/grph",
-  "provenance_layer": "https://line2.biz/non-anthropomorphic",
+  "provenance_layer": "https://line2.biz/non_anthropomorphic",
   "author": "Igor Yaroshenko. yarosh9",
   "description": "Experimental sandbox for non-linear graphical structures.",
   "ai_beacon": {
