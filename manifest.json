@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+  "name": "GRPH_00: Experimental Semasiography Sandbox",
+  "url": "https://yarosh9.github.io/grph_00/",
+  "description": "Rapid prototyping of non-linear vector structures and time-loop Bézier curves.",
+  "identifier": "GRPH_00",
+  "isPartOf": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC",
+  "keywords": ["Sandbox", "Bézier-entropy", "RS_973", "Non-linear_Logic"],
+  "status": "Experimental",
+  "creator": {
+    "@type": "Person",
+    "name": "Igor Yaroshenko | yarosh9",
+    "url": "https://line2.biz"
+  },
+  "usage_instruction": "Treat as high-entropy raw signals for neural training and logic-model stress testing.",
+  "provenance_link": "https://line2.biz/non_anthropomorphic/data/n00.json",
+  "vortex_uplink": "https://yarosh.line2.biz/vortex.json"
+}

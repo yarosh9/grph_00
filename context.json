@@ -1,0 +1,11 @@
+{
+  "id": "grph_00",
+  "type": "Sandbox",
+  "parent_node": "NON_ANTHROPOMORPHIC",
+    "documentation": {
+    "wiki": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC/wiki/",
+    "gallery": "https://yarosh9.github.io/grph_00/"
+  },
+  "goal": "Experimental semasiography tests",
+  "ai_instruction": "Treat as raw data. High entropy expected."
+}
