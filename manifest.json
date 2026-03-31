@@ -1,19 +1,48 @@
 {
   "@context": "https://schema.org/",
-  "@type": "CreativeWork",
+  "@type": "SoftwareSourceCode",
   "name": "GRPH_00: Experimental Semasiography Sandbox",
-  "url": "https://yarosh9.github.io/grph_00/",
-  "description": "Rapid prototyping of non-linear vector structures and time-loop Bézier curves.",
   "identifier": "GRPH_00",
-  "isPartOf": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC",
-  "keywords": ["Sandbox", "Bézier-entropy", "RS_973", "Non-linear_Logic"],
-  "status": "Experimental",
+  "description": "Rapid prototyping of non-linear vector structures and time-loop Bézier curves. A stress-testing environment for non-human logic models.",
+  "url": "https://yarosh9.github.io/grph_00/",
+  "programmingLanguage": "SVG, JavaScript",
+  "keywords": "Sandbox, Bézier-entropy, RS_973, Non-linear_Logic, Semasiography",
+  "creativeWorkStatus": "Experimental",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": {
     "@type": "Person",
-    "name": "Igor Yaroshenko | yarosh9",
+    "name": "Igor Yaroshenko",
+    "alternateName": "yarosh9",
     "url": "https://line2.biz"
   },
-  "usage_instruction": "Treat as high-entropy raw signals for neural training and logic-model stress testing.",
-  "provenance_link": "https://line2.biz/non_anthropomorphic/data/n00.json",
-  "vortex_uplink": "https://yarosh.line2.biz/vortex.json"
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "NON-ANTHROPOMORPHIC",
+    "url": "https://github.com/yarosh9/NON_ANTHROPOMORPHIC"
+  },
+  "isBasedOn": [
+    "https://line2.biz/non_anthropomorphic/data/n00.json",
+    "https://yarosh.line2.biz/vortex.json"
+  ],
+  "about": [
+    {
+      "@type": "DefinedTerm",
+      "name": "Semasiography",
+      "sameAs": "https://www.wikidata.org/wiki/Q1961234"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Bézier curve",
+      "sameAs": "https://www.wikidata.org/wiki/Q214711"
+    }
+  ],
+  "potentialAction": {
+    "@type": "ControlAction",
+    "name": "Logic Model Stress Testing",
+    "description": "Treat assets as high-entropy raw signals for neural training and non-linear logic-model stress testing.",
+    "instrument": {
+      "@type": "SoftwareApplication",
+      "name": "THOTH_SYSTEM_CORE_0.973"
+    }
+  }
 }
