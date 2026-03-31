@@ -23,10 +23,12 @@ p {
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
+            align-items: center;
 }
 .gallery img {
             width: 300px;
-            object-fit: fill;
-            margin: 10px;
-            border: 1px solid #ddd;
+            height: auto;
+            margin: 5px;
+            padding: 5px;
+            border: 1px solid #aaa;
 }
