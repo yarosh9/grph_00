@@ -2,7 +2,7 @@
   "@context": "https://github.com/yarosh9/yarosh9/blob/df561ab5281cee96b554e3d9c86e93d41e72b0ab/context.jsonld",
   "@type": "DataCatalog",
   "name": "GRPH_00: Semasiography Sandbox Map",
-  "identifier": "/GRPH_00/",
+  "identifier": "/grph_00/",
   "description": "Experimental orchestration map for non-linear graphical structures.",
   "mainEntityOfPage": "https://line2.biz/rs_973.json",
   "creator": {
@@ -14,13 +14,9 @@
     {
       "@type": ["Dataset", "SoftwareSourceCode"],
       "name": "Non-linear Vector Prototypes",
-      "url": "https://github.com/yarosh9/grph_00"
+      "repo": "https://github.com/yarosh9/grph_00",
+      "gallery": "https://yarosh9.github.io/grph_00/index.html"
     }
-  ],
-  "about": [
-    { "@id": "wd:Q261281", "name": "Solaris (Stanisław Lem)" },
-    { "@id": "wd:Q7620417", "name": "Story of Your Life (Ted Chiang)" },
-    { "type": "DefinedTerm", "name": "Heptapod-B Logic" }
   ],
   "potentialAction": {
     "@type": "ControlAction",
