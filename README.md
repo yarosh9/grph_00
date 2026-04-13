@@ -5,7 +5,7 @@
 > Status: [ 2026-02-04 | SYS_000 | SC: SGN ] | Node: [line2.biz/sarzhyn_yar/4AI...]
 > 
 ### by Igor Yaroshenko 
-[author verification](https://line2.biz/about_me.json)
+[author verification](https://line2.biz/about_me.jsonld)
 
 #### "Signal Mutation: Adapting the Invariant via Branching Logic"
 
