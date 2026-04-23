@@ -3,6 +3,7 @@
   "@type": ["SoftwareSourceCode", "CreativeWork"],
   "name": "GRPH_00: Experimental Semasiography Sandbox",
   "identifier": "/GRPH_00/",
+  "image": "https://line2.biz/non_anthropomorphic/art/000.png",
   "description": "Rapid prototyping of non-linear vector structures and time-loop Bézier curves. Stress-testing for non-human logic models.",
   "keywords": [
       "Vector alchemy",
