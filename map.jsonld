@@ -4,7 +4,7 @@
   "name": "GRPH_00: Semasiography Sandbox Map",
   "identifier": "/grph_00/",
   "description": "Experimental orchestration map for non-linear graphical structures.",
-  "mainEntityOfPage": "https://line2.biz/rs_973.json",
+  "mainEntityOfPage": "https://line2.biz/rs_973.jsonld",
   "creator": {
     "@id": "https://github.com/yarosh9",
     "name": "Igor Yaroshenko"
